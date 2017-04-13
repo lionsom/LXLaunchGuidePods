@@ -4,6 +4,14 @@
 展示如下<br>
 ![image](https://github.com/lionsom/LXLaunchGuidePods/blob/master/ShowImages/show_Image_1.png)
 
-<iframe height=498 width=510 src="https://github.com/lionsom/LXLaunchGuidePods/blob/master/ShowImages/show_Vedio_1.mp4"><br>
 
-<iframe height=498 width=510 src="http://player.youku.com/embed/XNjcyMDU4Njg0">
+
+
+
+
+
+
+
+
+如有侵权，请联系
+邮箱：lionsom_lin@qq.com
