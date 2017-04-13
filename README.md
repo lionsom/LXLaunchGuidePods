@@ -5,3 +5,4 @@
 ![image](https://github.com/lionsom/LXLaunchGuidePods/blob/master/ShowImages/show_Image_1.png)
 
 
+![LTNavigationbar](https://github.com/lionsom/LXLaunchGuidePods/blob/master/ShowImages/show_Vedio_1.mp4)
