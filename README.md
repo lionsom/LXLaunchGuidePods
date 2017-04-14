@@ -4,7 +4,6 @@
 展示如下<br>
 ![image](https://github.com/lionsom/LXLaunchGuidePods/blob/master/ShowImages/show_Image_1.png)
 
-
 ## 如何使用<br>
 1、在首页面直接添加，不需要改动任何代码<br>
 ```
@@ -19,5 +18,8 @@
 ```
 
 
-如有侵权，请联系
+
+
+
+如有侵权，请联系<br>
 邮箱：lionsom_lin@qq.com
